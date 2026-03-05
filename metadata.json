@@ -1,0 +1,5 @@
+{
+  "name": "Maintenance Tracker",
+  "description": "一个移动端友好的周期性维护追踪应用，帮助您管理汽车保养、植物浇水和滤芯更换等重复性任务。",
+  "requestFramePermissions": ["notifications"]
+}
